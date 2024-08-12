@@ -1,0 +1,15 @@
+{
+  "name": "com.ncv.json",
+  "displayName": "NCV.System.Text.Json",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "System.Text.Json wrapper",
+  "category": "Unity",
+  "dependencies": {},
+  "author": {
+    "name": "NCV",
+    "email": "tech@ncv.global",
+    "url": "https://ncv.global/"
+  },
+  "type": "library"
+}
